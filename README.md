@@ -64,15 +64,8 @@ I am a junior software developer, focusing on using **cutting-edge technologies*
 ---
 
 ## 🚀 **What I’m Working On**
-- **Exploring the future of cryptography**: I am delving deep into the world of **encryption** and **data security**, especially in **decentralized systems**.
+- **Exploring the future of cryptography**: I am delving deep into the world of _encryption_ and _data security_, especially in _decentralized systems_.
 - **Full-Stack Development**: Building end-to-end applications using React, Node.js, and JavaScript.
-- **AI and ML**: Learning advanced **machine learning** algorithms with a focus on **neural networks** and **deep learning** to solve practical problems.
-  
----
-
-## 🔥 **Fun Facts**
-- 🧠 I love problem-solving and tackling complex challenges in algorithms and data structures.
-- 💬 Always up for discussions about the **future of AI**, **data security**, and **tech innovation**.
-- ♟️ I love playing chess on my spare time, feel free to hit me up if you're down for a game!
+- **AI and ML**: Learning advanced _machine learning_ algorithms with a focus on _neural networks_ and _deep learning_ to solve practical problems.
 
 ---
