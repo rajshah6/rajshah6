@@ -36,7 +36,7 @@ I'm passionate about developing **innovative solutions** to real-world challenge
 ---
 
 ## 🚀 **What I’m Working On**
-- **Exploring the future of cryptography**: I am delving deep into the world of encryption and data security, especially in decentralized systems.
+- **Exploring the future of cryptography**: I am delving deep into the world of **encryption** and **data security**, especially in **decentralized systems**.
 - **Full-Stack Development**: Building end-to-end applications using React, Node.js, and JavaScript.
 - **AI and ML**: Learning advanced **machine learning** algorithms with a focus on **neural networks** and **deep learning** to solve practical problems.
   
@@ -52,7 +52,7 @@ I'm passionate about developing **innovative solutions** to real-world challenge
 ## 🔥 **Fun Facts**
 - 🧠 I love problem-solving and tackling complex challenges in algorithms and data structures.
 - 💬 Always up for discussions about the **future of AI**, **data security**, and **tech innovation**.
-- 🎮 Avid gamer, I enjoy diving into game development as a fun side project.
+- ♟️ I love playing chess on my spare time, feel free to hit me up if you're down for a game!
 
 ---
 
