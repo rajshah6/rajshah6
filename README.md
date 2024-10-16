@@ -1,4 +1,4 @@
-# 👋 Hey! I'm **Raj Shah**  
+# 👋 Hi! I'm **Raj Shah**  
 
 I am a junior software developer, focusing on using **cutting-edge technologies** to build projects that matter. I have a growing interest in **machine learning**, **cryptography**, and **Natural Language Processing**!
 
@@ -56,10 +56,11 @@ I am a junior software developer, focusing on using **cutting-edge technologies*
 
 ---
 
-## 📊 **Top Languages**
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshah6&layout=compact&theme=radical&hide_border=true"/>
-</p>
+## 📊 **My GitHub Stats**
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajshah6&theme=dark&ring=purple&fire=blue&currStreakLabel=blue)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajshah6&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
