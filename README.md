@@ -15,7 +15,7 @@ I'm passionate about developing **innovative solutions** to real-world challenge
 
 ### Skills
 <p>
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square"/>
