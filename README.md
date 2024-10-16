@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Raj Shah**  
+# 👋 Hey! I'm **Raj Shah**  
 I'm a Full Stack Developer and Computer Science student at the University of Waterloo.
 
 I'm passionate about developing **innovative solutions** to real-world challenges. I focus on using **cutting-edge technologies** to build projects that matter. I have a growing interest in **machine learning**, **cryptography**, and **full-stack development**!
