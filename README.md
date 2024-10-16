@@ -1,6 +1,6 @@
 # 👋 Hey! I'm **Raj Shah**  
 
-I'm passionate about developing **innovative solutions** to real-world challenges. I focus on using **cutting-edge technologies** to build projects that matter. I have a growing interest in **machine learning**, **cryptography**, and **full-stack development**!
+I am a junior software developer, focusing on using **cutting-edge technologies** to build projects that matter. I have a growing interest in **machine learning**, **cryptography**, and **full-stack development**!
 
 ---
 
