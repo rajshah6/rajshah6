@@ -1,7 +1,6 @@
 <div align="center">
   <h1 style="animation: wave 2s infinite;">
-    <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
-    <p>**Hi! I'm Raj Shah**</p>
+    <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"><p>Hi! I'm Raj Shah</p>
   </h1>
   
 </div>
