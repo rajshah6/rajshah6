@@ -73,12 +73,6 @@ I am a junior software developer, focusing on using **cutting-edge technologies*
   </table>
 </div>
 
-<div align="center">
-  <a href="https://github.com/rajshah6/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshah6&layout=compact&theme=dark" alt="Top Languages">
-  </a>
-</div>
-
 ---
 
 ## 🚀 **What I’m Working On**
