@@ -18,7 +18,7 @@ I am a junior software developer, focusing on using **cutting-edge technologies*
 ---
 
 ## 🌐 **Connect with Me**
-- 🌍 I'm based in **Toronto, Canada**
+- 🌍 I'm currently based in **Toronto, Canada**
 - 💻 Check out my portfolio at [Raj Shah](https://rajshah6.github.io) (_a working link is coming soon!_)
 - ✉️ Contact me at [rajnshah2020@gmail.com](mailto:rajnshah2020@gmail.com)
   
@@ -84,5 +84,3 @@ I am a junior software developer, focusing on using **cutting-edge technologies*
 - **Exploring the future of cryptography**: I am delving deep into the world of _encryption_ and _data security_, especially in _decentralized systems_.
 - **Full-Stack Development**: Building end-to-end applications using React, Node.js, and JavaScript.
 - **AI and ML**: Learning advanced _machine learning_ algorithms with a focus on _neural networks_ and _deep learning_ to solve practical problems.
-
----
