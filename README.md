@@ -1,28 +1,8 @@
 <div align="center">
   <h1 style="animation: wave 2s infinite;">
-    👋 Hi! I'm Raj Shah
+    <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
   </h1>
 </div>
-
-<style>
-  @keyframes wave {
-    0%, 20%, 40%, 60%, 80%, 100% {
-      transform: rotate(0deg);
-    }
-    10% {
-      transform: rotate(15deg);
-    }
-    30% {
-      transform: rotate(-15deg);
-    }
-    50% {
-      transform: rotate(10deg);
-    }
-    70% {
-      transform: rotate(-10deg);
-    }
-  }
-</style>
 
 I am a junior software developer, focusing on using **cutting-edge technologies** to build projects that matter. I have a growing interest in **machine learning**, **cryptography**, and **Natural Language Processing**!
 
