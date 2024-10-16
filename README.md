@@ -13,17 +13,39 @@ I'm passionate about developing **innovative solutions** to real-world challenge
 
 ## 💻 **Tech Stack**
 
+### Skills
 <p>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Racket-374f9d?logo=racket&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Racket-374F9D?logo=racket&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Scheme-4E5F94?style=flat-square"/>
+</p>
+
+### Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-D3.js-F9A03C?logo=d3.js&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-VS Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square"/>
+</p>
+
+### Frameworks & Libraries
+<p>
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Tkinter-3776AB?logo=python&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-PyGame-3776AB?logo=python&logoColor=white&style=flat-square"/>
 </p>
 
 ---
