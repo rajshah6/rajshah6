@@ -58,11 +58,15 @@ I am a junior software developer, focusing on using **cutting-edge technologies*
 
 ## 📊 **My GitHub Stats**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajshah6)](https://github.com/rajshah6/github-readme-stats)
-<div class="badges-githubstats">
-  <p align="center">
+<div style="display: flex; justify-content: center;">
+  <div style="margin-right: 20px;">
+    <a href="https://github.com/rajshah6/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshah6&layout=compact&theme=dark" alt="Top Languages">
+    </a>
+  </div>
+  <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajshah6&theme=tokyonight&hide_border=true" alt="rajshah's Streak" height="165">
-  </p>
+  </div>
 </div>
 
 ---
