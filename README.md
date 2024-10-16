@@ -60,7 +60,7 @@ I am a junior software developer, focusing on using **cutting-edge technologies*
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rajshah6&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="rajshah's Stats" height="165">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajshah6)](https://github.com/rajshah6/github-readme-stats)
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajshah6&theme=tokyonight&hide_border=true" alt="rajshah's Streak" height="165">
   </p>
 </div>
