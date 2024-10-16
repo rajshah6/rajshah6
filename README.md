@@ -1,9 +1,9 @@
 # 👋 Hey! I'm **Raj Shah**  
-I'm a Full Stack Developer and Web Designer!
 
 I'm passionate about developing **innovative solutions** to real-world challenges. I focus on using **cutting-edge technologies** to build projects that matter. I have a growing interest in **machine learning**, **cryptography**, and **full-stack development**!
 
 ## ⚡ **About Me**
+- 👨‍💻 **Full-Stack Developer** and **Web Designer**
 - 🎓 **CS Student at the University of Waterloo**
 - 🖥️ **3+ years of coding experience**
 - 🌱 Currently exploring **cryptography** and **AI applications** in software development
