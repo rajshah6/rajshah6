@@ -7,7 +7,13 @@ I'm passionate about developing **innovative solutions** to real-world challenge
 - 🎓 **CS Student at the University of Waterloo**
 - 🖥️ **3+ years of coding experience**
 - 🌱 Currently exploring **cryptography** and **AI applications** in software development
-- 🔭 Continuously improving my skills in **React**, **Typescript**, **Node**, and more!
+  
+---
+
+## 🌐 **Connect with Me**
+- 🌍 I'm based in **Toronto, Canada**
+- 💻 Check out my portfolio at [Raj Shah](https://rajshah6.github.io) (_a working link is coming soon!_)
+- ✉️ Contact me at [rajnshah2020@gmail.com](mailto:rajnshah2020@gmail.com)
   
 ---
 
@@ -62,37 +68,9 @@ I'm passionate about developing **innovative solutions** to real-world challenge
   
 ---
 
-## 🌐 **Connect with Me**
-- 🌍 I'm based in **Toronto, Canada**
-- 💻 Check out my portfolio at [Raj Shah](https://rajshah6.github.io) (_a working link is coming soon!_)
-- ✉️ Contact me at [rajnshah2020@gmail.com](mailto:rajnshah2020@gmail.com)
-  
----
-
 ## 🔥 **Fun Facts**
 - 🧠 I love problem-solving and tackling complex challenges in algorithms and data structures.
 - 💬 Always up for discussions about the **future of AI**, **data security**, and **tech innovation**.
 - ♟️ I love playing chess on my spare time, feel free to hit me up if you're down for a game!
 
 ---
-
-```html
-<style>
-  @keyframes slideIn {
-    0% { opacity: 0; transform: translateY(-50px); }
-    100% { opacity: 1; transform: translateY(0); }
-  }
-
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-  }
-
-  h1 {
-    animation: slideIn 1s ease-out;
-  }
-
-  img {
-    animation: bounce 2s infinite ease-in-out;
-  }
-</style>
