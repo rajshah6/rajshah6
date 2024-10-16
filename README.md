@@ -15,7 +15,7 @@ I'm passionate about developing **innovative solutions** to real-world challenge
 
 ### Skills
 <p>
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square"/>
@@ -24,7 +24,6 @@ I'm passionate about developing **innovative solutions** to real-world challenge
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/-Racket-374F9D?logo=racket&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Scheme-4E5F94?style=flat-square"/>
 </p>
 
 ### Tools & Technologies
@@ -35,7 +34,6 @@ I'm passionate about developing **innovative solutions** to real-world challenge
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/-D3.js-F9A03C?logo=d3.js&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square"/>
-  <img src="https://img.shields.io/badge/-VS Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square"/>
 </p>
 
 ### Frameworks & Libraries
