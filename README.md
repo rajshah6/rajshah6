@@ -1,3 +1,15 @@
+<!-- Animated Wave SVG -->
+<svg viewBox="0 0 120 28">
+  <defs>
+    <mask id="mask" x="0" y="0" width="120" height="28">
+      <path fill="#FFFFFF" d="M0,7 Q30,14 60,7 T120,7 V28 H0 V7 Z"></path>
+    </mask>
+  </defs>
+  <rect x="0" y="0" width="120" height="28" fill="#FFCC00" mask="url(#mask)">
+    <animate attributeName="x" from="0" to="120" dur="3s" repeatCount="indefinite" />
+  </rect>
+</svg>
+
 # 👋 Hey! I'm **Raj Shah**  
 I'm a Full Stack Developer and Computer Science student at the University of Waterloo.
 
