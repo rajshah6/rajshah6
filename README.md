@@ -5,7 +5,7 @@
   
 </div>
 
-I am a junior software developer, focusing on using **cutting-edge technologies** to build projects that matter. I have a growing interest in **machine learning**, **cryptography**, and **Natural Language Processing**!
+I am a junior software developer, focusing on using **cutting-edge technologies** to build projects that matter. I have a growing interest in **machine learning**, **cryptography**, and **natural language processing**!
 
 ---
 
