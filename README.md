@@ -30,7 +30,7 @@ I'm passionate about developing **innovative solutions** to real-world challenge
 
 ## 📊 **Top Languages**
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshah&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshah6&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
