@@ -44,7 +44,7 @@ I'm passionate about developing **innovative solutions** to real-world challenge
 
 ## 🌐 **Connect with Me**
 - 🌍 I'm based in **Toronto, Canada**
-- 💻 Check out my portfolio at [Raj Shah](https://rajshah6.github.io)
+- 💻 Check out my portfolio at [Raj Shah](https://rajshah6.github.io) (_a working link is coming soon!_)
 - ✉️ Contact me at [rajnshah2020@gmail.com](mailto:rajnshah2020@gmail.com)
   
 ---
