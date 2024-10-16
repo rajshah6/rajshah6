@@ -11,7 +11,7 @@ I am a junior software developer, focusing on using **cutting-edge technologies*
 
 ## ⚡ **About Me**
 - 👨‍💻 **Full-Stack Developer** and **Web Designer**
-- 🎓 **CS Student at the University of Waterloo**
+- 🎓 **Computer Science Student at the University of Waterloo**
 - 🖥️ **4+ years of coding experience**
 - 🌱 Currently exploring **cryptography** and **AI applications** in software development
   
