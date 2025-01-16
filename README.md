@@ -71,9 +71,6 @@ I am an 18 year old software developer, focusing on using **cutting-edge technol
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshah6&layout=compact&theme=dark" alt="Top Languages">
         </a>
       </td>
-      <td style="padding-left: 20px; padding-right: 20px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajshah6&theme=tokyonight&hide_border=true" alt="rajshah's Streak" height="165">
-      </td>
     </tr>
   </table>
 </div>
