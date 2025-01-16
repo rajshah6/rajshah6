@@ -12,7 +12,7 @@ I am an 18 year old software developer, focusing on using **cutting-edge technol
 ## ⚡ **About Me**
 - 👨‍💻 **Full-Stack Developer** and **Web Designer**
 - 🎓 **Computer Science Student** at the **University of Waterloo**
-- 🖥️ **3+ years of coding experience**
+- 🖥️ **4+ years of coding experience**
 - 🌱 Currently exploring **cryptography** and **AI applications** in software development
   
 ---
