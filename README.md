@@ -61,22 +61,6 @@ I am an 18 year old software developer, focusing on using **cutting-edge technol
 
 ---
 
-## 📊 **My GitHub Stats**
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/rajshah6/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshah6&layout=compact&theme=dark" alt="Top Languages">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🚀 **What I’m Working On**
 - **Exploring the future of cryptography**: I am delving deep into the world of _encryption_ and _data security_, especially in _decentralized systems_.
 - **Full-Stack Development**: Building end-to-end applications using React, Node.js, and JavaScript.
