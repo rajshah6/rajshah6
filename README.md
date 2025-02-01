@@ -91,10 +91,3 @@ I am an 18-year-old software developer, focusing on using **cutting-edge technol
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajshah6&theme=tokyonight-duo&hide_border=true" alt="Raj's Streak" height="165">
       </div>
 </div>
-
----
-
-## 🚀 **What I’m Working On**
-- **Exploring the future of cryptography**: I am delving deep into the world of _encryption_ and _data security_, especially in _decentralized systems_.
-- **Full-Stack Development**: Building end-to-end applications using React, Python, Flask.
-- **AI and ML**: Learning advanced _machine learning_ algorithms with a focus on _neural networks_ and _deep learning_ to solve practical problems.
