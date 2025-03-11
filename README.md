@@ -19,9 +19,9 @@ I am an 18-year-old software developer, focusing on using **cutting-edge technol
 
 ## 🌐 **Connect with Me**
 - 🌍 I'm currently based in **Toronto, Canada**
-- 💻 Check out my portfolio at [Raj Shah](https://www.rajshah.live)
+- 💻 Check out my portfolio at [rajshah.live](https://www.rajshah.live)
 - ✉️ Contact me at [rajnshah2020@gmail.com](mailto:rajnshah2020@gmail.com)
-  
+
 ---
 
 ## 💻 **Tech Stack**
