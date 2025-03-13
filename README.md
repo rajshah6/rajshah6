@@ -82,12 +82,7 @@ I am an 18 year old software developer, focusing on using **cutting-edge technol
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <a href="https://github.com/akramj13/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshah6&layout=compact&theme=nightowl" alt="Top Languages">
-        </a>
-</div>
-<div align="center">
-      <div style="padding-left: 20px; padding-right: 20px;">
-        [![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajshah6)](https://github.com/anuraghazra/github-readme-stats)
-      </div>
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rajshah6&theme=meta-dark" alt="GitHub Streak" style="margin-top: 10px;">
+    </a>
 </div>
