@@ -5,12 +5,12 @@
   
 </div>
 
-I am an 18-year-old software developer, focusing on using **cutting-edge technologies** to build projects that matter. I have a growing interest in **machine learning**, **cryptography**, and **natural language processing**!
+I am an 18 year old software developer, focusing on using **cutting-edge technologies** to build projects that matter. I have a growing interest in **machine learning**, **cryptography**, and **natural language processing**!
 
 ---
 
 ## ⚡ **About Me**
-- 👨‍💻 **Full-Stack Developer** and **Web Designer**
+- 👨‍💻 **Full-Stack Developer**
 - 🎓 **Computer Science Student** at the **University of Waterloo**
 - 🖥️ **4+ years of coding experience**
 - 🌱 Currently exploring **cryptography** and **AI applications** in software development
@@ -88,6 +88,6 @@ I am an 18-year-old software developer, focusing on using **cutting-edge technol
 </div>
 <div align="center">
       <div style="padding-left: 20px; padding-right: 20px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajshah6&theme=tokyonight-duo&hide_border=true" alt="Raj's Streak" height="165">
+        [![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajshah6)](https://github.com/anuraghazra/github-readme-stats)
       </div>
 </div>
