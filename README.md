@@ -5,22 +5,10 @@
   
 </div>
 
-I am an 18 year old software developer, focusing on using **cutting-edge technologies** to build projects that matter. I have a growing interest in **machine learning**, **cryptography**, and **natural language processing**!
-
----
-
-## ⚡ **About Me**
-- 👨‍💻 **Full-Stack Developer**
-- 🎓 **Computer Science Student** at the **University of Waterloo**
-- 🖥️ **4+ years of coding experience**
-- 🌱 Currently exploring **cryptography** and **AI applications** in software development
-  
----
-
 ## 🌐 **Connect with Me**
 - 🌍 I'm currently based in **Toronto, Canada**
 - 💻 Check out my portfolio at [rajshah.live](https://www.rajshah.live)
-- ✉️ Contact me at [rajnshah2020@gmail.com](mailto:rajnshah2020@gmail.com)
+- ✉️ Contact me at [r33shah@uwaterloo.ca](mailto:r33shah@uwaterloo.ca)
 
 ---
 
